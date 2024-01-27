@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Wallpaper Manager/*
+!/Simple Wallpaper Manager/task/
+/Simple Wallpaper Manager/task/*
+!/Simple Wallpaper Manager/task/src
+!/Simple Wallpaper Manager/task/build.gradle
